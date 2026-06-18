@@ -1,0 +1,6 @@
+{
+  "name": "FreelanceAI",
+  "description": "AI-powered assistant for freelancers to automate proposals, optimize profiles, and manage gigs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
